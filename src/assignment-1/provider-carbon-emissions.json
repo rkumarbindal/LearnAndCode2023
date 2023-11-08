@@ -1,0 +1,17 @@
+{
+    "gmail": {
+        "inbox": 0.2,
+        "sent": 0.05,
+        "spam": 0.02
+    },
+    "outlook": {
+        "inbox": 0.15,
+        "sent": 0.08,
+        "spam": 0.03
+    },
+    "yahoo": {
+        "inbox": 0.12,
+        "sent": 0.07,
+        "spam": 0.025
+    }
+}
